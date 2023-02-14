@@ -1,7 +1,7 @@
 parameters:
   - name: signingFileName
     type: string
-    default: 'repo_20230214'
+    default: 'ConsoleApps120MB.dll'
 
 trigger: none
 
